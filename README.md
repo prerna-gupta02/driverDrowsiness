@@ -9,7 +9,7 @@
 Fatigue and drowsiness not just because of alcohol and drugs but also because of tiredness due to long driving hours, is a big cause of road accidents. 
 Solution
 A system which alarms the driver as soon as it detects yawning and shutting of eyes when the driver is becoming drowsy to prevent any accident.
-![This is an image](.\assets\drowsiness1.jpeg)
+![This is an image](./assets/drowsiness1.jpeg)
 
 ### Applications 
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents.
