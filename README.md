@@ -14,7 +14,7 @@ A system which alarms the driver as soon as it detects yawning and shutting of e
 ### Applications 
 This can be used by riders who tend to drive for a longer period of time that may lead to accidents.
 
-![This is an image](.\assets\drowsiness2.jpeg)
+![This is an image](./assets/drowsiness2.jpeg)
 
 ### Technology Used
 
@@ -43,12 +43,12 @@ A computer vision system that can automatically detect driver drowsiness in a re
 ### Algorithm 
 Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye.
 It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
-![This is an image](.\assets\drowsiness3.jpeg)
+![This is an image](./assets/drowsiness3.jpeg)
 
 ### Relationship
-![This is an image](.\assets\drowsiness4.jpeg)
+![This is an image](./assets/drowsiness4.jpeg)
 ### Summary
-![This is an image](.\assets\drowsiness5.jpeg)
+![This is an image](./assets/drowsiness5.jpeg)
 
 
 
